@@ -1,5 +1,5 @@
-name = "Adam D'Angelo"
-name2 = 'Joh"n'
+name = "Rama Narayana"
+name2 = 'Gurija"la'
 name3 = '''Twinkle, twinkle, little star
 How I wonder what you are
 Up above the world so high
